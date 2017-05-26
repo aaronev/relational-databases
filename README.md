@@ -53,27 +53,27 @@ Create schemas and mock data for the "Music Player" app from the Init 3 goal. Th
 Create a database for a fictional bike shop. Use the Table Schema for Bike Shop provided.
 
 * [x] Folder bike-shop/ exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Bike Shop is included in the file bike-shop/schema.sql.
-- [ ] Bike Shop schema matches the specifications in Table Schema for Bike Shop.
+* [x] Database schema SQL (using PostgreSQL syntax) for the Bike Shop is included in the file bike-shop/schema.sql.
+* [x] Bike Shop schema matches the specifications in Table Schema for Bike Shop.
 
 ### Stage 4
 
 Complete the final Khan Academy project. Design and create schemas for the "Bossggle" app from the Init 1 goals.
 
-- [ ] Solution SQL for the Khan Academy project: App impersonator is added to a file in your repo named app_impersonator.sql
-- [ ] SQL in app_impersonator.sql has consistent indentation.
-- [ ] All the SQL keywords in app_impersonator.sql are written in ALL CAPS.
-- [ ] Folder bossggle/ exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from [Init 1: Bossggle Word Game][bossggle-word-game] is included in the file bossggle/schema.sql.
+* [x] Solution SQL for the Khan Academy project: App impersonator is added to a file in your repo named app_impersonator.sql
+* [x] SQL in app_impersonator.sql has consistent indentation.
+* [x] All the SQL keywords in app_impersonator.sql are written in ALL CAPS.
+* [x] Folder bossggle/ exists in your repo.
+* [x] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from [Init 1: Bossggle Word Game][bossggle-word-game] is included in the file bossggle/schema.sql.
 
 Bossggle schema supports the following features (i.e. you could write SQL to show this data):
 
-- [ ] List all words guessed
-- [ ] Count all correct words guessed
-- [ ] Count all incorrect words guessed
-- [ ] List all words guessed and their scores
-- [ ] Get sum of scores for all words guessed
-- [ ] Show 10 most recently guessed words
+* [x] List all words guessed
+* [x] Count all correct words guessed
+* [x] Count all incorrect words guessed
+* [x] List all words guessed and their scores
+* [x] Get sum of scores for all words guessed
+* [x] Show 10 most recently guessed words
 
 ### Stage 5
 
